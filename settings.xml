@@ -1,0 +1,6 @@
+<?xml version = '1.0'?>
+<app-settings>
+    <properties>
+        <property key="totalUsers">3</property>
+    </properties>
+</app-settings>
